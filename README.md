@@ -1,6 +1,6 @@
 # Nudge
 
-A small **Windows** app for quick notes and time-based reminders. It lives in the **system tray** and saves everything **locally** on your PC.
+> A small **Windows** app for quick notes and time-based reminders. It lives in the **system tray** and saves everything **locally** on your PC.
 
 ---
 
@@ -19,11 +19,11 @@ Download **`Nudge.exe`**, run it, and allow it to start with Windows if you want
 
 ## 2. Previews
 
-![Nudge Interface](nudge1.png)
+![Nudge Interface](nudge2.png)
 
-![Nudge System Tray](nudge2.png)
+![Nudge System Tray](nudge3.png)
 
-![Nudge Notification](nudge3.png)
+![Nudge Notification](nudge1.png)
 
 ---
 
